@@ -83,7 +83,7 @@ between "Tutorial" and "1" so these appear on the same line -->
 | Tutorial 2 | C++, OpenGL and Hierarchical Models | | |
 | Lecture 2  | **Interpolation & 2D Transformations** Rigid, conformal, affine transformations. Homogeneous coordinates. Coordinate-free geometry. <br> [Transforms.pdf](notes/Transforms.pdf) <br> [Coordfreegeom.pdf](notes/Coordfreegeom.pdf) | [lecture2+3.pdf](slides/lecture2+3.pdf), [lecture2+3_6up.pdf](slides/lecture2+3_6up.pdf) | 6.1; 2.4; 6.3 | 
 | Tutorial 3 | C++, OpenGL and Hierarchical Models | | |
-| Lecture 3  | **3D Surfaces** Planes, tangents, normals, bilinear patches, quadrics/superquadrics. 3D transformations. <br> [3dobjects.pdf](3dobects.pdf) | | 2.9–2.11; 13.1; 6.2 | 
+| Lecture 3  | **3D Surfaces** Planes, tangents, normals, bilinear patches, quadrics/superquadrics. 3D transformations. <br> [3dobjects.pdf](notes/3dobects.pdf) | | 2.9–2.11; 13.1; 6.2 | 
 | **Part II: Viewing in 3D** ||||
 | _coming soon_ ||||
 | **Part III: Appearance Modeling and Rendering** ||||
