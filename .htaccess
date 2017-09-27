@@ -1,0 +1,2 @@
+# This allows you to redirect your entire website to any other domain
+Redirect 301 / http://www.dgp.toronto.edu/~karan/courses/418/
