@@ -68,17 +68,22 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 ## Lecture Schedule
 
-Links to lecture slides are _**required readings**_. These links are available
-before each lecture (but may be minimally altered for the lecture).
-
-Online notes present the slides in greater detail and are strongly suggested
-reading.  Sections under the Textbook column refer to strongly suggested
-readings from Shirley's textbook.  External links point to online resources
-(e.g., Wikipedia and MathWorld) that you may find helpful. _They are not required
-readings._
-
-<!-- Pressing OPT+[Space] will produce a non-breaking space. For example,
-between "Tutorial" and "1" so these appear on the same line -->
+| Week | Topic / Event |
+| ---- | :------------ |
+| 1    | Introduction
+| 2    |
+| 3    |
+| 4    |
+| 5    |
+| 6    |
+| 7    |
+| 8    |
+| **Monday, October 29** | In-tutorial Exam (20% of grade)
+| 9    |
+| 10   |
+| 11   |
+| **Monday, Novemebr 26** | In-tutorial Exam (10% of grade)
+| 12   |
 
 ## Assignments 
 
