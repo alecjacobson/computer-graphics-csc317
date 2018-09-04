@@ -88,7 +88,6 @@ Links to assignments will be available on the hand-out dates
 
 ## Grading
 
-| % | Item |
 | ----: | --------------- |
 | 20% | Monday, October 29, in-tutorial exam
 | 10% | Monday, November 26, in-tutorial exam
