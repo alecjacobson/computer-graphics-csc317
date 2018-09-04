@@ -1,6 +1,6 @@
 # Computer Graphics CSC418 _Winter 2018_
 
-![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
+![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
 - [Sections](#sections)
 - [Course Overview](#courseoverview)
@@ -82,9 +82,12 @@ between "Tutorial" and "1" so these appear on the same line -->
 
 ## Assignments 
 
+
 [Academic Honesty (required reading)](#academichonesty)
 
 Links to assignments will be available on the hand-out dates
+
+![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
 
 ## Grading
 
