@@ -29,7 +29,7 @@ GB 244.
 
 ## Links
 
-- [Bulletin Board](https://bb-2017-09.teach.cs.toronto.edu/c/csc418)
+- [Bulletin Board](https://bb-2018-09.teach.cs.toronto.edu/c/csc418)
 
 ## Course Overview
 
