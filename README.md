@@ -80,6 +80,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 8    |
 | **Monday, October 29** | In-tutorial Exam (20% of grade)
 | 9    |
+| **Monday, November 5** | Drop date (consider if grade so far is <50%)
 | 10   |
 | 11   |
 | **Monday, November 26** | In-tutorial Exam (10% of grade)
