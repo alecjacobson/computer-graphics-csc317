@@ -1,21 +1,3 @@
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
-<article class="markdown-body">
-
 # Computer Graphics CSC418 _Winter 2018_
 
 ![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
