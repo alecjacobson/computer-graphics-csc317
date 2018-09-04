@@ -89,10 +89,10 @@ Links to assignments will be available on the hand-out dates
 ## Grading
 
 | % | Item |
-| ----: | --------------- |
+| ----: | :-------------- |
+| 70% | Assignments
 | 20% | Monday, October 29, in-tutorial exam
 | 10% | Monday, November 26, in-tutorial exam
-| 70% | Assignments
 
 There will be roughly seven programming assignments in total (~10% each).
 
