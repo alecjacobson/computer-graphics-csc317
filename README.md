@@ -1,4 +1,4 @@
-# Computer Graphics CSC418 _Fall 2018_
+# Computer Graphics CSC418/CSC2504 _Fall 2018_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
