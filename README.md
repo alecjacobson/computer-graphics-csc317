@@ -82,7 +82,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 9    |
 | 10   |
 | 11   |
-| **Monday, Novemebr 26** | In-tutorial Exam (10% of grade)
+| **Monday, November 26** | In-tutorial Exam (10% of grade)
 | 12   |
 
 ## Assignments 
