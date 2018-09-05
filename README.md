@@ -22,7 +22,7 @@ Office hours Wednesdays 17:00-19:00 in BA 5266
 Prof. [Karan Singh](http://www.dgp.toronto.edu/~karan/)  
 karan@dgp.toronto.edu  
 +1 416-978-7201  
-Office hours _TBD_ in BA 5258
+Office hours Tuesdays 14:00-15:00 in BA 5258
 
 **Tutorial** for both sections will be held _together_ on Mondays 15:00-16:00 in
 GB 244.
@@ -56,7 +56,7 @@ programming in basic C++.
 
 ![The Book.](https://www.cs.cornell.edu/~srm/fcg4/K22616_cover-300.jpg)
 
-This class involved **_required reading_** from:
+This class involves  **_required reading_** from:
 
 [_Fundamentals of Computer Graphics, Fourth
 Edition_](https://www.cs.cornell.edu/~srm/fcg4/), Steve Marschner, Pete Shirley,
