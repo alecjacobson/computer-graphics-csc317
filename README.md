@@ -56,7 +56,7 @@ programming in basic C++.
 
 ![The Book.](https://www.cs.cornell.edu/~srm/fcg4/K22616_cover-300.jpg)
 
-This class involved **_required reading_** from:
+This class involves  **_required reading_** from:
 
 [_Fundamentals of Computer Graphics, Fourth
 Edition_](https://www.cs.cornell.edu/~srm/fcg4/), Steve Marschner, Pete Shirley,
