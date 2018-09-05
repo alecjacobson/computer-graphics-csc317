@@ -6,7 +6,6 @@
 - [Course Overview](#courseoverview)
 - [Required Textbook](#requiredtextbook)
 - [Lecture Schedule](#lectureschedule)
-- [Assignments](#assignments)
 - [Grading](#grading)
 - [Lateness Policy](#latenesspolicy)
 
@@ -86,12 +85,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | **Monday, November 26** | In-tutorial Exam (10% of grade)
 | 12   | 🏆 Showcase 🏆 
 
-## Assignments 
-
-
 [Academic Honesty (required reading)](#academichonesty)
-
-Links to assignments will be available on the hand-out dates
 
 ![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
 
