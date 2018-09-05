@@ -1,3 +1,5 @@
+title: Computer Graphics csc418
+
 <link rel="stylesheet" href="github-markdown.css">
 <style>
 	.markdown-body {

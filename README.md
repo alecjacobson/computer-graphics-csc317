@@ -70,21 +70,21 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction
-| 2    |
-| 3    |
-| 4    |
-| 5    |
-| 6    |
-| 7    |
-| 8    |
+| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 21/09](https://github.com/alecjacobson/computer-graphics-raster-images)
+| 2    | [Assignment 2 (Ray Casting) due 28/09](https://github.com/alecjacobson/computer-graphics-ray-casting)
+| 3    | [Assignment 3 (Ray Tracing) due 05/10](https://github.com/alecjacobson/computer-graphics-ray-tracing)
+| 4    | [Assignment 4 (Boundary Volume Hierarchy) due 12/10](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
+| 5    | [Assignment 5 (Meshes) due 19/10](https://github.com/alecjacobson/computer-graphics-meshes)
+| 6    | _Work on Assignment 5_ |
+| 7    | _Study for exam next week_.
 | **Monday, October 29** | In-tutorial Exam (20% of grade)
-| 9    |
+| 8    | [Assignment 6 (GLSL) due 09/11]()
 | **Monday, November 5** | Drop date (consider if grade so far is <50%)
-| 10   |
-| 11   |
+| 9    | [Assignment 7 (Kinematics) due 16/11]()
+| 10   | [Final Image/Animation/Game Competition due 30/11]()
+| 11   | _Study for exam next week_.
 | **Monday, November 26** | In-tutorial Exam (10% of grade)
-| 12   |
+| 12   | 🏆 Showcase 🏆 
 
 ## Assignments 
 
