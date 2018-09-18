@@ -24,7 +24,7 @@ karan@dgp.toronto.edu
 Office hours Tuesdays 14:00-15:00 in BA 5258
 
 **Tutorial** for both sections will be held _together_ on Mondays 15:00-16:00 in
-GB 244.
+SF 3202.
 
 ## Links
 
