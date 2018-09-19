@@ -15,7 +15,7 @@
 Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
 jacobson@cs.toronto.edu  
 +1 416-946-8630  
-Office hours Wednesdays 17:00-19:00 in BA 5266
+Office hours Wednesdays 17:00-18:00 in BA 5266
 
 **LEC0201** Tuesdays 15:00-17:00 in SF 3202  
 Prof. [Karan Singh](http://www.dgp.toronto.edu/~karan/)  
