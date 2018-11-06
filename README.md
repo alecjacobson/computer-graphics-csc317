@@ -77,7 +77,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 6    | _Work on Assignment 5_ , [Lecture6](lectures/lecture6.pdf) |
 | 7    | _Study for exam next week_.
 | **Monday, October 29** | In-tutorial Exam (20% of grade)
-| 8    | [Assignment 6 (GLSL) due 09/11]()
+| 8    | [Assignment 6 (Shader Pipeline) due 14/11](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
 | **Monday, November 5** | Drop date (consider if grade so far is <50%)
 | 9    | [Assignment 7 (Kinematics) due 16/11]()
 | 10   | [Final Image/Animation/Game Competition due 30/11]()
