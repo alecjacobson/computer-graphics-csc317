@@ -93,11 +93,13 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-| 70% | Assignments
+| 70%* | Assignments
 | 20% | Monday, October 29, in-tutorial exam
 | 10% | Monday, November 26, in-tutorial exam
 
 There will be roughly seven programming assignments in total (~10% each).
+
+\*The final assignment is pass/fail + bonus marks. A minimally passing submission will receive a mark equal to the student's average marks on HW1-7 (i.e., will not change her overall Assignment Marks). Additional marks are awarded up to 100% on the assignment (i.e., an amazing submission will increase her marks as if scoring 100% on an 8th assignment). Failing the assignment (e.g., very poor/no submission) will receive 0 marks (i.e., as if receiving 0% on an 8th assignment). Lateness policy applies as usual, but get your submission in on time to qualify for the competition.
 
 ## Lateness Policy
 
