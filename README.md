@@ -1,4 +1,4 @@
-# Computer Graphics CSC418/CSC2504 _Fall 2018_
+# Computer Graphics CSC418/CSC2504 _Fall 2019_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
@@ -11,24 +11,18 @@
 
 ## Sections
 
-**LEC0101** Wednesdays 15:00-17:00 in GB 244  
+Wednesdays 15:00-17:00 in GB 120.  
 Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
 jacobson@cs.toronto.edu  
 +1 416-946-8630  
 Office hours Wednesdays 17:00-18:00 in BA 5266
 
-**LEC0201** Tuesdays 15:00-17:00 in SF 3202  
-Prof. [Karan Singh](http://www.dgp.toronto.edu/~karan/)  
-karan@dgp.toronto.edu  
-+1 416-978-7201  
-Office hours Tuesdays 14:00-15:00 in BA 5258
-
-**Tutorial** for both sections will be held _together_ on Mondays 15:00-16:00 in
-SF 3202.
+**Tutorial** for both sections will be held _together_ on Mondays 12:00-13:00 in
+GB 120.
 
 ## Links
 
-- [Bulletin Board](https://bb-2018-09.teach.cs.toronto.edu/c/csc418)
+- ~Bulletin Board~
 
 ## Course Overview
 
@@ -42,7 +36,7 @@ hardware, ray tracing, graphics toolkits, animation systems.
 
 **Prerequisites:** C/C++ Programming, Linear Algebra, Calculus, Numerical
 Methods ([course
-codes](http://calendar.artsci.utoronto.ca/crs_csc.htm#CSC418H1)).
+codes](https://fas.calendar.utoronto.ca/course/csc418h1)).
 
 The student is expected to read background material on the hardware and local
 software, and should be comfortable with elementary linear algebra, geometry,
@@ -93,13 +87,12 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-| 70%* | Assignments
-| 20% | Monday, October 29, in-tutorial exam
-| 10% | Monday, November 26, in-tutorial exam
+| 64% | Assignments
+| 24% | Monday, October 29, in-tutorial exam
+| 12% | Monday, November 26, in-tutorial exam
 
-There will be roughly seven programming assignments in total (~10% each).
+There will be eight programming assignments in total (8% each).
 
-\*The final assignment is pass/fail + bonus marks. A minimally passing submission will receive a mark equal to the student's average marks on HW1-7 (i.e., will not change her overall Assignment Marks). Additional marks are awarded up to 100% on the assignment (i.e., an amazing submission will increase her marks as if scoring 100% on an 8th assignment). Failing the assignment (e.g., very poor/no submission) will receive 0 marks (i.e., as if receiving 0% on an 8th assignment). Lateness policy applies as usual, but get your submission in on time to qualify for the competition.
 
 ## Lateness Policy
 
