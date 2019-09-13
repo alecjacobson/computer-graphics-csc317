@@ -6,7 +6,8 @@ Wednesdays 15:00-17:00 in GB 120.
 Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
 jacobson@cs.toronto.edu  
 +1 416-946-8630  
-Office hours Wednesdays 17:00-18:00 in BA 5266
+Office hours Wednesdays 17:00-18:00 in BA 5266.  
+**Note:** I am not available on Fridays as I'm off campus. 
 
 **Tutorial** for both sections will be held _together_ on Mondays 12:00-13:00 in
 GB 120.
