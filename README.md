@@ -76,7 +76,7 @@ but also on material from the assigned readings.
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 17/09](https://github.com/alecjacobson/computer-graphics-raster-images)
+| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 17/09](https://github.com/alecjacobson/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to csc418-2019-09@cs.toronto.edu so that you get a timestamp)
 | 2    | [Assignment 2 (Ray Casting) due 24/09](https://github.com/alecjacobson/computer-graphics-ray-casting)
 | 3    | [Assignment 3 (Ray Tracing) due 01/10](https://github.com/alecjacobson/computer-graphics-ray-tracing)
 | 4    | [Assignment 4 (Boundary Volume Hierarchy) due ??/??](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
