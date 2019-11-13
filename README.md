@@ -86,7 +86,7 @@ but also on material from the assigned readings.
 | **Monday, October 28** | In-tutorial Exam (12% of grade)
 | 8    | [Assignment 6 (Shader Pipeline) due 12/11](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
 | **Monday, November 4** | Drop date (consider if current grade is <50%)
-| 9    | [Assignment 7 (Kinematics) due 19/11](https://github.com/alecjacobson/computer-graphics-kinematics)
+| 9    | [Assignment 7 (Kinematics) due 19/11](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | 10   | _Assignment 8 (TBD)_ <!-- Course Evaluations Nov. 20 - Dec 7 --> |
 | 11   | The future of Computer Graphics
 | 12   | _Study for exam next week_.
