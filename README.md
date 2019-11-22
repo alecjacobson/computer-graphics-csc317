@@ -87,7 +87,7 @@ but also on material from the assigned readings.
 | 8    | [Assignment 6 (Shader Pipeline) due 12/11](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
 | **Monday, November 4** | Drop date (consider if current grade is <50%)
 | 9    | [Assignment 7 (Kinematics) due 19/11](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
-| 10   | [Assignment 8 (Kinematics) due 2/12](https://github.com/alecjacobson/computer-graphics-mass-spring-systems) <!-- Course Evaluations Nov. 20 - Dec 7 --> |
+| 10   | [Assignment 8 (Mass-Spring Systems) due 2/12](https://github.com/alecjacobson/computer-graphics-mass-spring-systems) <!-- Course Evaluations Nov. 20 - Dec 7 --> |
 | 11   | The future of Computer Graphics
 | 12   | _Study for exam next week_.
 | Final | Final exam (24% of grade)
