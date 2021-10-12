@@ -1,16 +1,15 @@
-# Computer Graphics CSC418/CSC2504 _Fall 2019_ <br> Course Syllabus
+# Computer Graphics CSC317/CSC2504 _Winter 2022_ <br> Course Syllabus
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
-Wednesdays 15:00-17:00 in GB 120.  
+Tuesdays 15:00-17:00 in BA 1170.  
 Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
 jacobson@cs.toronto.edu  
 +1 416-946-8630  
-Office hours Wednesdays 17:00-18:00 in BA 5266.  
-**Note:** I am not available on Fridays as I'm off campus. 
+Office hours Thursdays 17:00-18:00 in BA 5266.  
 
-**Tutorial** for both sections will be held _together_ on Mondays 12:00-13:00 in
-GB 120.
+**Tutorial** for both sections will be held _together_ on Thursdays 16:00-17:00 in
+LM 161.
 
 - [Course Overview](#courseoverview)
 - [Required Textbook](#requiredtextbook)
@@ -35,7 +34,7 @@ codes](https://fas.calendar.utoronto.ca/course/csc418h1)).
 
 Please post your questions about the lectures, readings, and assignments on the
 [Quercus discussion
-board](https://q.utoronto.ca/courses/111789/discussion_topics). We will monitor
+board]() (TBD). We will monitor
 this board and attempt to answer questions as they appear. Near deadlines
 responses may take longer, so please start assignments early. If your question
 is not being answered, you may ask it again at the tutorial or office hours.
@@ -74,6 +73,8 @@ but also on material from the assigned readings.
 
 ## Lecture Schedule
 
+_Assignment dates still based on Fall offering. Will be updated soon._
+
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 17/09](https://github.com/alecjacobson/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to csc418-2019-09@cs.toronto.edu so that you get a timestamp)
@@ -98,7 +99,7 @@ but also on material from the assigned readings.
 
 ## Assignment Policies
 
-Assignments must be submitted electronically, using [MarkUs](https://markus.teach.cs.toronto.edu/csc418-2019-09/).
+Assignments must be submitted electronically, using [MarkUs]() (TBD).
 
 Code that you submit to us must work on the CS Teaching Lab machines in order to earn credit.
 
