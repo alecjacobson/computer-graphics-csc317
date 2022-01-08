@@ -1,15 +1,21 @@
-# Computer Graphics CSC317/CSC2504 _Winter 2022_ <br> Course Syllabus
+# Computer Graphics CSC317 _Winter 2022_ <br> Course Syllabus
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
-Tuesdays 15:00-17:00 in BA 1170.  
+Tuesdays 15:00-17:00 in ~~BA 1170~~ Zoom.  
 Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
 jacobson@cs.toronto.edu  
 +1 416-946-8630  
-Office hours Thursdays 17:00-18:00 in BA 5266.  
+Office hours Tuesdays 17:00-18:00 in ~~BA 5266~~ Zoom.  
+
+
+XXX XX:00-XX:00 in ~~BA 1170~~ Zoom.  
+Prof. [David I.W. Levin](http://142.93.146.228/researchdb/)
+diwlevin@cs.toronto.edu      
+Office hours Tuesdays XX:00-XX:00 in ~~BA 5265~~ Zoom.  
 
 **Tutorial** for both sections will be held _together_ on Thursdays 16:00-17:00 in
-LM 161.
+~~LM 161~~ Zoom/Discord.
 
 - [Course Overview](#courseoverview)
 - [Required Textbook](#requiredtextbook)
