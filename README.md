@@ -13,7 +13,7 @@ Tuesdays 13:00-15:00 in ~~RW 117~~ Zoom.
 Prof. [David I.W. Levin](http://142.93.146.228/researchdb/)
 diwlevin@cs.toronto.edu      
 Office hours Tuesdays 15:00-16:00 in ~~BA 5268~~ Zoom.  
-Tutorials Thursdays 14:00-15:00 in ~BA 1190~~ Zoom/Discord.
+Tutorials Thursdays 14:00-15:00 in ~~BA 1190~~ Zoom/Discord.
 
 - [Course Overview](#courseoverview)
 - [Required Textbook](#requiredtextbook)
