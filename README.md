@@ -7,15 +7,13 @@ Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)
 jacobson@cs.toronto.edu  
 +1 416-946-8630  
 Office hours Tuesdays 17:00-18:00 in ~~BA 5266~~ Zoom.  
+Tutorials Thursdays 16:00-17:00 in ~~LM 161~~ Zoom/Discord.
 
-
-XXX XX:00-XX:00 in ~~BA 1170~~ Zoom.  
+Tuesdays 13:00-15:00 in ~~RW 117~~ Zoom.  
 Prof. [David I.W. Levin](http://142.93.146.228/researchdb/)
 diwlevin@cs.toronto.edu      
-Office hours Tuesdays XX:00-XX:00 in ~~BA 5265~~ Zoom.  
-
-**Tutorial** for both sections will be held _together_ on Thursdays 16:00-17:00 in
-~~LM 161~~ Zoom/Discord.
+Office hours Tuesdays 15:00-16:00 in ~~BA 5268~~ Zoom.  
+Tutorials Thursdays 14:00-15:00 in ~BA 1190~~ Zoom/Discord.
 
 - [Course Overview](#courseoverview)
 - [Required Textbook](#requiredtextbook)
