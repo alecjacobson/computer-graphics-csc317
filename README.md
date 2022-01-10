@@ -83,7 +83,7 @@ _Assignment dates still based on Fall offering. Will be updated soon._
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 12:00 noon 19/01](https://github.com/alecjacobson/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address so that you get a timestamp)
+| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 12:00 noon 19/01](https://github.com/alecjacobson/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp)
 | 2    | [Assignment 2 (Ray Casting) tenatively assigned](https://github.com/alecjacobson/computer-graphics-ray-casting)
 | 3    | [Assignment 3 (Ray Tracing) tenatively assigned](https://github.com/alecjacobson/computer-graphics-ray-tracing)
 | 4    | [Assignment 4 (Bounding Volume Hierarchy) tenatively assigned](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy) (**Note:** `./intersections` related portion only worth 10%)
