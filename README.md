@@ -16,7 +16,7 @@ Office hours Tuesdays 15:00-16:00 in ~~BA 5268~~ Zoom.
 Tutorials Thursdays 14:00-15:00 in ~~BA 1190~~ Zoom/Discord.
 
 - [Course Overview](#courseoverview)
-- [Required Textbook](#requiredtextbook)
+- [Required Textbook](#required-textbook)
 - [Lecture Schedule](#lectureschedule)
 - [Marking Scheme](#markingscheme)
 - [Assignment Policies](#assignmentpolicies)
@@ -50,12 +50,12 @@ is not being answered, you may ask it again at the tutorial or office hours.
 
 This class involves  **_required [reading](https://en.wikipedia.org/wiki/Reading)_** from:
 
-[_Fundamentals of Computer Graphics, Fourth
+[_Fundamentals of Computer Graphics, Fourth (or Fifth)
 Edition_](https://www.cs.cornell.edu/~srm/fcg4/), Steve Marschner, Peter Shirley,
 et al. 2015.
 
 Digital e-book are available at [CRC
-Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition/Marschner-Shirley/p/book/9781482229394).
+Press](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035).
 
 Students are expected to buy and read the specified chapters of this textbook.
 Exams and assignments will depend not only material covered during lectures,
