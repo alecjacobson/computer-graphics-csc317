@@ -84,15 +84,15 @@ _Assignment dates still based on Fall offering. Will be updated soon._
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 12:00 noon 19/01](https://github.com/alecjacobson/computer-graphics-raster-images) (for students on the waitlist: zip your `src` directory and send to the TA email address (csc317tas@cs.toronto.edu) so that you get a timestamp)
-| 2    | [Assignment 2 (Ray Casting) tenatively assigned](https://github.com/alecjacobson/computer-graphics-ray-casting)
+| 2    | [Assignment 2 (Ray Casting) due 12:00 noon 26/01](https://github.com/alecjacobson/computer-graphics-ray-casting)
 | 3    | [Assignment 3 (Ray Tracing) tenatively assigned](https://github.com/alecjacobson/computer-graphics-ray-tracing)
 | 4    | [Assignment 4 (Bounding Volume Hierarchy) tenatively assigned](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy) (**Note:** `./intersections` related portion only worth 10%)
 | 5    | [Assignment 5 (Meshes) tenatively assigned](https://github.com/alecjacobson/computer-graphics-meshes) (**Note:** `./quad_subdivision` related portion only worth 10%) **_happy Thanksgiving_**
 | 6    | _Work on Assignment 5_
 | 7    | _Study for exam next week_.
-| **Monday, October 28** | In-tutorial Exam (11% of grade)
+| **Monday, March 3** | In-tutorial Exam (11% of grade)
 | 8    | [Assignment 6 (Shader Pipeline) tenatively assigned](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
-| **Monday, November 4** | Drop date (consider if current grade is <50%)
+| **Monday, March 14** | Drop date (consider if current grade is <50%)
 | 9    | [Assignment 7 (Kinematics) tenatively assigned](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | 10   | [Assignment 8 (Mass-Spring Systems) tenatively assigned](https://github.com/alecjacobson/computer-graphics-mass-spring-systems) <!-- Course Evaluations Nov. 20 - Dec 7 --> |
 | 11   | The future of Computer Graphics
