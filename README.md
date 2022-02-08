@@ -87,7 +87,7 @@ _Assignment dates still based on Fall offering. Will be updated soon._
 | 2    | [Assignment 2 (Ray Casting) due 12:00 noon 26/01](https://github.com/alecjacobson/computer-graphics-ray-casting)
 | 3    | [Assignment 3 (Ray Tracing) due 12:00 noon 02/02](https://github.com/alecjacobson/computer-graphics-ray-tracing)
 | 4    | [Assignment 4 (Bounding Volume Hierarchy) due 12:00 noon 09/02](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy) (**Note:** `./intersections` related portion only worth 10%) **_happy Lunar new year 🐅_**
-| 5    | [Assignment 5 (Meshes) due 12:00 noon 02/15](https://github.com/alecjacobson/computer-graphics-meshes) (**Note:** `./quad_subdivision` related portion only worth 10%) 
+| 5    | [Assignment 5 (Meshes) due 12:00 noon 02/16](https://github.com/alecjacobson/computer-graphics-meshes) (**Note:** `./quad_subdivision` related portion only worth 10%) 
 | 6    | _TBD_
 | 7    | _Study for exam next week_.
 | **Monday, March 3** | In-tutorial Exam (11% of grade) _tentative date_
