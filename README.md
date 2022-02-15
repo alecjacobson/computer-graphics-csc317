@@ -88,10 +88,10 @@ _Assignment dates still based on Fall offering. Will be updated soon._
 | 3    | [Assignment 3 (Ray Tracing) due 12:00 noon 02/02](https://github.com/alecjacobson/computer-graphics-ray-tracing)
 | 4    | [Assignment 4 (Bounding Volume Hierarchy) due 12:00 noon ~09/02~ extended to 11/02](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy) (**Note:** `./intersections` related portion only worth 10%) **_happy Lunar new year 🐅_**
 | 5    | [Assignment 5 (Meshes) due 12:00 noon 16/02](https://github.com/alecjacobson/computer-graphics-meshes) (**Note:** `./quad_subdivision` related portion only worth 10%) 
-| 6    | _TBD_
-| 7    | _Study for exam next week_.
-| **Monday, March 3** | In-tutorial Exam (11% of grade) _tentative date_
-| 8    | [Assignment 6 (Shader Pipeline) tenatively assigned](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
+| 6    | Object-based Rendering Transformations and Projections [Assignment 6 (Shader Pipeline) assigned due 12:00 09/03](https://github.com/alecjacobson/computer-graphics-shader-pipeline) **_happy reading week_**
+| 7    | Real-time graphics pipeline, review for mid-term
+| **Thursday, March 3** | 24-hour take-home exam due 12:00 04/03 (11% of grade) _tentative date_
+| 8    | TBD
 | **Monday, March 14** | Drop date (consider if current grade is <50%)
 | 9    | [Assignment 7 (Kinematics) tenatively assigned](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | 10   | [Assignment 8 (Mass-Spring Systems) tenatively assigned](https://github.com/alecjacobson/computer-graphics-mass-spring-systems) <!-- Course Evaluations Nov. 20 - Dec 7 --> |
