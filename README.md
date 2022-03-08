@@ -93,7 +93,7 @@ _Assignment dates still based on Fall offering. Will be updated soon._
 | **Thursday, March 3** | 24-hour take-home exam due 12:00 04/03 (11% of grade) _tentative date_
 | 8    | TBD
 | **Monday, March 14** | Drop date (consider if current grade is <50%)
-| 9    | [Assignment 7 (Kinematics) tenatively assigned](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
+| 9    | [Assignment 7 (Kinematics) due 12:00 noon 16/3](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | 10   | [Assignment 8 (Mass-Spring Systems) tenatively assigned](https://github.com/alecjacobson/computer-graphics-mass-spring-systems) <!-- Course Evaluations Nov. 20 - Dec 7 --> |
 | 11   | The future of Computer Graphics
 | 12   | _Study for exam next week_.
